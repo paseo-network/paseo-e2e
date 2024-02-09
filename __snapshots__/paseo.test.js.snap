@@ -1,0 +1,37 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`test > sudoCall 1`] = `
+[
+  {
+    "data": {
+      "sudoResult": "Ok",
+    },
+    "method": "Sudid",
+    "section": "sudo",
+  },
+]
+`;
+
+exports[`test > system events 1`] = `
+[
+  {
+    "data": {
+      "sudoResult": "Ok",
+    },
+    "method": "Sudid",
+    "section": "sudo",
+  },
+]
+`;
+
+exports[`test > ttttt 1`] = `
+[
+  {
+    "data": {
+      "sudoResult": "Ok",
+    },
+    "method": "Sudid",
+    "section": "sudo",
+  },
+]
+`;
